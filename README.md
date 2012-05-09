@@ -1,0 +1,1 @@
+A dump for all my development tips & notes. At some point might be refactored/restructured into a book; but for now just notes.
